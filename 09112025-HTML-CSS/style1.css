@@ -1,0 +1,17 @@
+@font-face{
+    src: url(fonts/Roboto-VariableFont_wdth,wght.ttf);
+    font-family: Roboto;
+}
+
+@font-face{
+    src: url(fonts/RobotoMono-Italic-VariableFont_wght.ttf);
+    font-family: RobotoMono;
+}
+h1 {
+    font-family: Roboto, Verdana, Arial, sans-serif;
+}
+
+p {
+    font-family: "RobotoMono", "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}

@@ -1,0 +1,7 @@
+#container{
+    border: 2px solid;
+}
+
+#conatainer + p {
+    background-color: hsl(60, 100%, 50%);
+}

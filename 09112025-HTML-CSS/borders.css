@@ -1,0 +1,21 @@
+h1{
+    border: 3px solid hsl(290, 50%, 46%);
+    border-radius: 20px;
+}
+
+p{
+    border-bottom: 3px solid rgb(255, 0, 0);
+    border-top: 3px solod rgb(0, 255, 242);
+    border-left: 3px dotted rgb(14, 35, 223);
+    border-right: 3px dotted rgb(21, 255, 12);
+    border-radius: 10px;
+}
+h2 {
+    text-shadow: 3px 3px 5px hsl(0, 100%, 61%) -3px 3px 5px hsl(182, 64%, 63%);
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 5px;
+}
